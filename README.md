@@ -16,7 +16,7 @@ Simulation comparing MPC and reinforcement learning (DQN, PPO) for planar N-link
 
 ## A Little Bit About Myself
 
-When I'm not an engineer, I'm a musician (I play both guitar and piano in my free time). But even as a musician, I still force myself to be an engineer by building custom pedals for my guitar rig. And as you can tell by my profile, I also enjoy the outdoors (it's important to touch grass every once and a while). 
+When I'm not an engineer, I'm a musician (I play both guitar and piano in my free time). But even as a musician, I still force myself to be an engineer by building custom pedals for my guitar rig. And as you can tell by my profile pic, I also enjoy the outdoors (it's important to touch grass every once and a while). 
 
 ## Let's Connect
 
