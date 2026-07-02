@@ -14,6 +14,11 @@ Simulation comparing MPC and reinforcement learning (DQN, PPO) for planar N-link
 
 `Python` `PyTorch` `stable-baselines3` `FastAPI` `React` `Three.js` `Docker` `Gymnasium`
 
+### [RSNA 2024 Intracranial Aneurysm Detection](https://github.com/PMurph09/rsna)
+Multi-modal deep learning pipeline for detecting and localizing intracranial aneurysms across 13 anatomical locations from 3D medical imaging (CTA, MRA, MRI T2, MRI T1post).
+
+`Python` `PyTorch`
+
 ## A Little Bit About Myself
 
 When I'm not an engineer, I'm a musician (I play both guitar and piano in my free time). But even as a musician, I still force myself to be an engineer by building custom pedals for my guitar rig. And as you can tell by my profile pic, I also enjoy the outdoors (it's important to touch grass every once and a while). 
