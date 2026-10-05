@@ -14,7 +14,7 @@ Simulation comparing MPC and reinforcement learning (DQN, PPO) for planar N-link
 
 `Python` `PyTorch` `stable-baselines3` `FastAPI` `React` `Three.js` `Docker` `Gymnasium`
 
-### [RSNA 2024 Intracranial Aneurysm Detection](https://github.com/PMurph09/rsna)
+### [RSNA 2025 Intracranial Aneurysm Detection](https://github.com/PMurph09/rsna)
 Multi-modal deep learning pipeline for detecting and localizing intracranial aneurysms across 13 anatomical locations from 3D medical imaging (CTA, MRA, MRI T2, MRI T1post).
 
 `Python` `PyTorch`
